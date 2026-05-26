@@ -1,0 +1,28 @@
+.banner {
+  height: 500px;
+  background-image: url("https://br.pinterest.com/pin/1137721924639685082/");
+  background-size: cover;
+  background-position: center;
+  display: flex;    
+  align-items: center;
+  padding-left: 60px;
+  color: white;
+}
+
+.banner h1 {
+  font-size: 80px;
+}
+
+.banner p {
+  font-size: 22px;
+  margin: 10px 0 20px;
+}
+
+.banner button {
+  padding: 12px 25px;
+  border: none;
+  background-color: #1db954;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
