@@ -6,7 +6,7 @@ const SalaRotacao = () => {
   return (
     <section className={styles.container}>
       <CardProduto
-        imagem="https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+        imagem="https://images.unsplash.com/photo-1543508282-6319a3e2621f"
         titulo="Nike Air Force"
         descricao="Estilo urbano premium."
       />

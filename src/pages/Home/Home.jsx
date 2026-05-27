@@ -13,7 +13,7 @@ const Home = () => {
       </div>
 
       <img
-        src="https://images.unsplash.com/photo-1549298916-b41d501d3772"
+        src="https://images.unsplash.com/photo-1569664665343-eb9b3948bdbb"
         alt="Tênis"
       />
     </section>
